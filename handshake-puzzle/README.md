@@ -13,9 +13,9 @@ $$\forall k \in 0..2N-2 \quad \exists ! p \in 1..2N-1: f(p)=k $$
 
 In other words, there exists a bijection from the set of possible answers to the set of all people (except the host).
 
-Now the person who shook $2N-2$ hands, must be married to the person who shook $0$ hands. Otherwise, because person "$2N-2$" shook all possible hands, if person "$0$" were anyone else, "$2N-2$" would have shaken hands with them.  
+Now the person who shook $2N-2$ hands, must be married to the person who shook $0$ hands. Otherwise, because person $"2N-2"$ shook all possible hands, if person $"0"$ were anyone else, $"2N-2"$ would have shaken hands with them.  
 
-If we remove this couple and apply the same logic to the remaining people, it follows that persons $1$ and $2N-3$ are married. 
+If we remove this couple and apply the same logic to the remaining people, it follows that persons $"1"$ and $"2N-3"$ are married. 
 
 We continue in this way until only the middle number remains: $N-1$. Since we removed $N-1$ couples, this must be the hostess. 
 
